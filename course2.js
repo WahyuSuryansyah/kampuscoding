@@ -2,7 +2,6 @@ import Navbar from "../component/navbar.js"
 import "./course.css"
 import {Link} from "react-router-dom"
 import React from "react"
-import img from "../img/Panah Geser.svg"
 
 function course() {
     return(
@@ -19,29 +18,29 @@ function course() {
         </p>
 
         <p className="Webdev">
-            Web Developement
+            UI/UX
         </p>
         <p className="level">
             Level: Pemula
         </p>
         <p className="jam">
-            70 Jam Belajar
+            35 Jam Belajar
         </p>
         <p className="belajar">
-            Belajar Dasar-Dasar Front-End Website
+            Belajar Mendesign UI/UX dengan Figma
         </p>
         <p className="Penjelasan">
-            "Di kelas ini kamu akan belajar  membuat website pertamamu. Kamu akan mempelajari HTML, CSS, Javascript, hingga Sass."
+            "Buat portofolio design UI/UX mu! Kelas ini akan melatih kamu merancang UI/UX dari dasar melalui figma."
         </p>
         <p className="enroll">
             <Link to="/myclasses" className="enr">enroll</Link>
         </p>
 
-        <div className="panahkanan">
+        <div className="panahkiri">
             <img src = {img}></img>
         </div>
         <p>
-            <Link to="/mycourse2" className="kanan"> </Link>
+            <Link to="/mycourse" className="kiri"> </Link>
         </p>
 
         <div className="panahbawah">

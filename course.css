@@ -1,0 +1,155 @@
+
+.panahatas{
+    position: absolute;
+    left: 500px;
+}
+.atas{
+    position: absolute;
+    left: 500px;
+}
+.testi{
+    position: absolute;
+    width: 323px;
+    height: 483px;
+    top: 160px;
+    left: 370px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 72px;
+    color: #000;
+}
+
+
+.Webdev{
+    position: absolute;
+    width: 323px;
+    height: 483px;
+    top: 160px;
+    left: 370px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 72px;
+    color: #000080;
+}
+
+.level{
+    position: absolute;
+    width: 323px;
+    height: 483px;
+    top: 160px;
+    left: 370px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 38px;
+    line-height: 72px;
+    color: #329C0D;
+}
+
+.jam{
+    position: absolute;
+    width: 323px;
+    height: 483px;
+    top: 160px;
+    left: 370px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 72px;
+    color: #000;
+}
+
+.belajar{
+    position: absolute;
+    width: 323px;
+    height: 483px;
+    top: 160px;
+    left: 370px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 72px;
+    color: #000080;
+}
+
+.Penjelasan{
+    position: absolute;
+    width: 550px;
+    height: 210px;
+    top: 275px;
+    left: 260px;
+    text-align: center;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 48px;
+    color: #000;
+}
+
+.enroll{
+    position: absolute;
+    width: 200px;
+    height: 60px;
+    top: 520px;
+    left: 435px;
+    text-align: center;
+    border-radius: 20px;
+    background: #31900F;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 60px;
+}
+
+.enr{
+    text-decoration: none;
+    color: #fff;
+}
+
+
+.panahkanan{
+    position: absolute;
+    left: 500px;
+}
+.kanan{
+    position: absolute;
+    left: 500px;
+}
+
+.panahbawah{
+    position: absolute;
+    left: 500px;
+}
+.bawah{
+    position: absolute;
+    left: 500px;
+}
+.FAQ{
+    position: absolute;
+    width: 323px;
+    height: 483px;
+    top: 160px;
+    left: 370px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 72px;
+    color: #000;
+}
